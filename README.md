@@ -1,10 +1,12 @@
-AlexNet CNN from scratch using with computational graphs only NumPy
+# AlexNet CNN from scratch using with computational graphs only NumPy
 
 
-for training:
-
+## for training:
+'''
 python train.py
+'''
 
-for testing:
-
+## for testing:
+'''
 python test.py
+'''
