@@ -1,4 +1,4 @@
-# AlexNet CNN from scratch using with computational graphs only NumPy
+# AlexNet CNN from scratch using computational graphs only NumPy
 
 
 ## for training:
