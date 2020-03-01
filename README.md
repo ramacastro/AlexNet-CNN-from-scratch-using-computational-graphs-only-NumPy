@@ -5,6 +5,8 @@
 ```
 python train.py
 ```
+(You should add more images in each folder)
+
 
 ## for testing:
 ```
